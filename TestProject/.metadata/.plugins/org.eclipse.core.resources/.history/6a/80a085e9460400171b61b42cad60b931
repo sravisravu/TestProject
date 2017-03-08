@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:testConProperties="http://www.talend.com/testConProperties.ecore">
+  <TalendProperties:Property xmi:id="_6TSaYQRGEeeWscbyadnwlA" id="_6TSaUARGEeeWscbyadnwlA" label="SravanthiTestCase" creationDate="2017-03-08T15:33:46.485-0600" modificationDate="2017-03-08T15:33:44.688-0600" version="0.1" statusCode="" item="_6TSaYwRGEeeWscbyadnwlA" displayName="SravanthiTestCase">
+    <author href="../../../talend.project#_FVKBwARGEeeWscbyadnwlA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_6TSaYgRGEeeWscbyadnwlA" path="process/_f7MsQARGEeeWscbyadnwlA"/>
+  <testConProperties:TestContainerItem xmi:id="_6TSaYwRGEeeWscbyadnwlA" property="_6TSaYQRGEeeWscbyadnwlA" state="_6TSaYgRGEeeWscbyadnwlA">
+    <process href="SravanthiTestCase_0.1.item#_6TSaUQRGEeeWscbyadnwlA"/>
+    <testContainerProcess href="SravanthiTestCase_0.1.item#_6TSaUQRGEeeWscbyadnwlA"/>
+  </testConProperties:TestContainerItem>
+</xmi:XMI>

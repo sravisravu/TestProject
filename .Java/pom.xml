@@ -10,7 +10,7 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>pom_routines.xml</module>
-    <module>pom_TestProjectTestCase_0.1.xml</module>
+    <module>pom_SravanthiTestCase_0.1.xml</module>
   </modules>
   <properties>
     <encoding>UTF-8</encoding>
